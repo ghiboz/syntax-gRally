@@ -7,12 +7,12 @@
 ### Using [Package Control](https://sublime.wbond.net)
 
 Open `Tools -> Command Palette...`. Search for `Package Control: Install Package` and click enter. Wait for
-the available packages to show up and then search for `Syntax g​Rally`. Click enter and the theme should
+the available packages to show up and then search for `Syntax gRally`. Click enter and the theme should
 be installed.
 
 ### Using Git
 
-Locate your Sublime Text 2 `Packages` directory by using the menu item `Preferences -> Browse Packages...`.
+Locate your Sublime Text `Packages` directory by using the menu item `Preferences -> Browse Packages...`.
 
 While inside the `Packages` directory, clone the theme repository using the command below:
 
@@ -23,3 +23,8 @@ While inside the `Packages` directory, clone the theme repository using the comm
 * Download the files using the GitHub .zip download option
 * Unzip the files
 * Copy the folder to your Sublime Text `Packages` directory
+
+### Activate
+Click on `Preferences -> Color Scheme -> Syntax gRally -> gRally`
+
+and the theme is activated!
