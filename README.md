@@ -1,4 +1,4 @@
-#gRally syntax higlight
+#gRally syntax highlight
 
 ![gRally syntax higlight](http://i.imgur.com/trnlH5U.png)
 
